@@ -1,4 +1,4 @@
-EVT 3.0 (alcuin-viewer) [![Build Status](https://travis-ci.org/evt-project/alcuin-viewer.svg?branch=master)](https://travis-ci.org/evt-project/alcuin-viewer)
+EVT 3.0 (lives-of-sa8hts-12) [![Build Status](https://travis-ci.org/evt-project/lives.svg?branch=master)](https://travis-ci.org/evt-project/lives-of-saints-12-viewer)
 ===============
 
 1 - Introduction

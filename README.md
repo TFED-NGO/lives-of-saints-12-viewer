@@ -1,4 +1,4 @@
-EVT 3.0 (lives-of-sa8hts-12) [![Build Status](https://travis-ci.org/evt-project/lives.svg?branch=master)](https://travis-ci.org/evt-project/lives-of-saints-12-viewer)
+EVT 3.0 (lives-of-saints-12) [![Build Status](https://travis-ci.org/evt-project/lives-of-saints-12.svg?branch=master)](https://travis-ci.org/evt-project/lives-of-saints-12-viewer)
 ===============
 
 1 - Introduction

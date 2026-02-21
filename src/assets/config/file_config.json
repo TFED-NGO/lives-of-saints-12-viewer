@@ -10,7 +10,7 @@
 			"enable": false
 		}
 	},
-	"imagesFolderUrl": "https://tfed-ngo.github.io/Lives-of-Saints-12/data/images/single",
+	"imagesFolderUrl": "https://tfed-ngo.github.io/Lives-of-Saints-12/data/images",
 	"configurationUrls": {
 		"edition": "assets/config/edition_config.json",
 		"ui": "assets/config/ui_config.json",

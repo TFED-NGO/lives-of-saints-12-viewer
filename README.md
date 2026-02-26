@@ -4,7 +4,7 @@ EVT 3.0 (lives-of-saints-12) [![Build Status](https://travis-ci.org/evt-project/
 1 - Introduction
 --------------------
 
-### 1.1 - About EVT
+### 1.1 - About EVT 
 
 [EVT (Edition Visualization Technology)](http://evt.labcd.unipi.it/) is a light-weight, open source tool specifically designed to create digital editions from texts encoded according to the [TEI XML schemas and Guidelines](http://www.tei-c.org/Guidelines/P5/), freeing the scholars from the burden of web programming and enabling the final users to browse, explore and study digital editions by means of a user-friendly interface.
 

@@ -131,10 +131,12 @@
           "options": {},
           "configurations": {
             "production": {
-              "browserTarget": "lives-of-saints-12-viewer:build:production"
+              "browserTarget": "lives-of-saints-12-viewer:build:production",
+            "buildTarget": "lives-of-saints-12-viewer:build:production"
             },
             "release": {
-              "browserTarget": "lives-of-saints-12-viewer:build:release"
+              "browserTarget": "lives-of-saints-12-viewer:build:release",
+              "buildTarget": "lives-of-saints-12-viewer:build:release"
             },
             "development": {
               "browserTarget": "lives-of-saints-12-viewer:build:development"

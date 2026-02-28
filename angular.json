@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "aelfric-viewer": {
+    "lives-of-saints-12-veiwer": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/aelfric-viewer",
+            "outputPath": "dist/lives-of-saints-12-viewer",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -131,13 +131,13 @@
           "options": {},
           "configurations": {
             "production": {
-              "browserTarget": "aelfric-viewer:build:production"
+              "browserTarget": "lives-of-saints-12-viewer:build:production"
             },
             "release": {
-              "browserTarget": "aelfric-viewer:build:release"
+              "browserTarget": "lives-of-saints-12-viewer:build:release"
             },
             "development": {
-              "browserTarget": "aelfric-viewer:build:development"
+              "browserTarget": "lives-of-saints-12-viewer:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -145,7 +145,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "aelfric-viewer:build"
+            "browserTarget": "lives-of-saints-12-viewer:build"
           }
         },
         "test": {
@@ -178,10 +178,10 @@
           },
           "configurations": {
             "production": {
-              "devServerTarget": "aelfric-viewer:serve:production"
+              "devServerTarget": "lives-of-saints-12-viewer:serve:production"
             },
             "development": {
-              "devServerTarget": "aelfric-viewer:serve:development"
+              "devServerTarget": "lives-of-saints-12-viewer:serve:development"
             }
           },
           "defaultConfiguration": "development"
@@ -198,7 +198,7 @@
       }
     }
   },
-  "defaultProject": "aelfric-viewer",
+  "defaultProject": "lives-of-saints-12-viewer",
   "cli": {
     "analytics": "c373e515-eb44-4b1b-85c7-56dd668954af",
     "defaultCollection": "@angular-eslint/schematics"
